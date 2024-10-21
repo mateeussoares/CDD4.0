@@ -1,0 +1,2 @@
+name = input("Provide your name.")
+print(name)
