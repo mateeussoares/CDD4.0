@@ -1,0 +1,5 @@
+name = input("What´s the name of the student?")
+grade1 = float(input("Provide his 1st grade."))
+grade2 = float(input("Provide his 2nd grande."))
+finalgrade = (grade1/grade2)*2
+print(f"The student{name} has an average of {finalgrade}.")
